@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Akku-CMD
-- 👀 I’m interested in Prgograming
+- 👀 I’m interested in Programing
 - 🌱 I’m currently learning CSS
 - 💞️ I’m looking to collaborate on JAVA
 - 📫 How to reach me amaske86@gmail.com
